@@ -1,0 +1,16 @@
+form{
+    text-align: center;
+    margin-top: 50%;
+}
+form #login{
+    text-align: center;
+    height: 30px;
+    font-size: 14px;
+    color: #4F94CD;
+    padding: 0;
+    border: 1px solid #8470FF;
+    border-radius: 5px;
+}
+form #sub{
+    margin: 20px auto;
+}

@@ -1,0 +1,18 @@
+#content p{
+    margin: 5px auto;
+    color: #7F7F7F;
+}
+#content textarea{
+    width: 80%;
+    height: 30%;
+    padding: 5px;
+}
+#content #up_btn{
+    width: 90%;
+    letter-spacing: 3px;
+}
+#content .tip{
+    color: mediumvioletred;
+    text-align: center;
+    display: none;
+}

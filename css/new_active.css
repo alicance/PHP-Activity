@@ -1,0 +1,29 @@
+#content{
+    width: 100%;
+    height: auto;
+    box-sizing: border-box;
+    text-align: center;
+    margin-top:20px;
+}
+#content #btn_new{
+    width: 90%;
+    letter-spacing: 8px;
+}
+#content p{
+    margin: 10px auto;
+}
+#content .txt{
+    height: 30px;
+    width: 70%;
+    background: #ffffff;
+    text-align: center;
+    font-size: 14px;
+    margin: 5px auto;
+    border: 2px solid #B9D3EE;
+}
+#content #act_desc{
+    width: 80%;
+}
+#content form label{
+    color: #7F7F7F;
+}

@@ -1,0 +1,50 @@
+#content .reveal{
+    width: 90%;
+    border: 1px solid #eee;
+    margin: 0 auto;
+    color: #848484;
+    background: #f8f8f7;
+}
+#content .reveal .title{
+    width: 100%;
+}
+#content .reveal p{
+    overflow: hidden;
+    margin: 5px;
+}
+#content .reveal img{
+    width: 100%;
+}
+#content .right{
+    font-style: normal;
+    float: right;
+}
+#content .left{
+    font-style: normal;
+    float: left;
+}
+
+
+#content #recommend .txt{
+    width: 90%;
+    height: 35px;
+    line-height: 35px;
+    padding: 2px;
+    font-size: 15px;
+    border-radius: 5px;
+    border: 2px solid #aaaaff;
+}
+#content #recommend .re_img{
+    position: absolute;
+    right: 6%;
+    height: 35px;
+}
+#content #recommend .re_reveal{
+    clear: both;
+    text-align: left;
+    padding-left: 6%;
+    color: #aaaaff;
+}
+#content #recommend #share_btn{
+    width: 90%;
+}

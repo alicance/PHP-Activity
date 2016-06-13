@@ -1,0 +1,37 @@
+#content .input{
+    width: 70%;
+    height: 30px;
+    line-height: 30px;
+    font-size: 16px;
+    color: #848484;
+    border: 2px solid #BCD2EE;
+    border-radius: 2px;
+    text-align: center;
+}
+#content textarea{
+    padding: 5px;
+    width: 75%;
+    height: 30%;
+    color: #848484;
+    border: 2px solid #BCD2EE;
+    border-radius: 2px;
+}
+#content label{
+    color: #848484;
+}
+#content #group_btn{
+    width: 80%;
+    letter-spacing: 3px;
+}
+#content #error_pass{
+    display: none;
+    width: 100%;
+    color: mediumvioletred;
+    text-align: center;
+}
+#content #error_name{
+    display: none;
+    width: 100%;
+    color: mediumvioletred;
+    text-align: center;
+}

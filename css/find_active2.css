@@ -1,0 +1,42 @@
+.f_b{
+    color: #ffffff;
+    /*float: right;*/
+    margin: 0 40%;
+}
+#content{
+    text-align: center;
+}
+header img{
+    width: 32px;
+}
+header img:hover{
+    width: 35px;
+}
+#content #find_sub{
+    width: 80%;
+    letter-spacing: 2px;
+}
+#content #f_cont{
+    height: 35px;
+    text-align: center;
+    width: 70%;
+    font-size: 15px;
+}
+#result{
+    text-align: center;
+}
+#result table{
+    width: 100%;
+    text-align: center;
+    color: #6CA6CD;
+}
+#result table tr th{
+    color: #7A8B8B;
+    /*width: 25%;*/
+}
+#result table tr td{
+    font-size: 16px;
+}
+#result table tr td a{
+    color: #6CA6CD;
+}

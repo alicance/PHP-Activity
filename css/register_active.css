@@ -1,0 +1,23 @@
+#content table{
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    /*color: #C7C7C7;*/
+}
+#content .name{
+    text-align: center;
+    width: 70%;
+    color: #7AC5CD;
+}
+#content .handler{
+    text-align: center;
+    width: 70%;
+    color: #7AC5CD;
+}
+#content table tr{
+    height: 40px;
+    line-height: 40px;
+}
+#content table tr td a{
+    color: #7AC5CD;
+}

@@ -1,0 +1,37 @@
+#content{
+    width: 100%;
+    height: auto;
+}
+#content p{
+    /*text-align: center;*/
+    padding-left: 20px;
+    margin: 2px auto;
+    color: #4A708B;
+    font-size: 14px;
+}
+#content .border{
+    border: 1px solid #aaaaff;
+    text-align: center;
+    height: 25px;
+    line-height: 25px;
+    border-radius: 10px;
+    color: #0066c3;
+    font-size: 17px;
+    letter-spacing: 2px;
+}
+#content #delete{
+    width: 48%;
+    text-align: center;
+}
+#content #modify{
+    width: 48%;
+    text-align: center;
+}
+#content table{
+    width: 100%;
+}
+#content table tr td{
+    width: 45%;
+    text-align: center;
+    color: #919191;
+}

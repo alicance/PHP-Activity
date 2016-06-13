@@ -1,0 +1,64 @@
+#detail{
+    border: 3px solid #BED6FF;
+    background: #F8F8FF;
+    overflow: hidden;
+}
+#detail img{
+    width: 90%;
+}
+#detail .topic{
+    height: 35px;
+    line-height: 35px;
+    border: 1px solid #aaaaff;
+    border-radius: 10px;
+    color: #CDB5CD;
+    letter-spacing: 2px;
+    font-weight: bold;
+    margin: 10px;
+}
+#detail .date{
+    color: #87CEEB;
+}
+#detail p{
+    color: #838B8B;
+    margin: 5px auto;
+}
+#v_p{
+
+}
+#v_p img{
+    width: 95%;
+}
+#content #detail .team_header{
+    font-style: normal;
+    float: left;
+    background: #aaaaff;
+    padding: 0 10px;
+    color: #ffffff;
+}
+#content #detail #team_member{
+    width: 96%;
+    height: auto;
+    border: 2px solid #aaaaff;
+    overflow: hidden;
+    float: left;
+    padding: 5px;
+    text-align: left;
+    color: #838B8B;
+}
+#content .v_p_c{
+    width: 95%;
+    margin: 0 auto;
+    border: 1px solid #aaaaff;
+    border-radius: 10px;
+}
+#content .title_em{
+    font-style: normal;
+    float: left;
+    background: #aaaaff;
+    padding: 0 10px;
+    color: #ffffff;
+}
+#content .v_p_c{
+    color: #838B8B;
+}

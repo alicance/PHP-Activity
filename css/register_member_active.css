@@ -1,0 +1,23 @@
+#content{
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    border: 1px solid #eee;
+    /*overflow: hidden;*/
+    /*background: red;*/
+}
+#re_btn{
+    width: 80%;
+}
+#content p{
+    color: #7F7F7F;
+    width: 100%;
+}
+#content  em{
+    /*display: block;*/
+    width: 40px;
+    /*background: red;*/
+    padding-left: 20%;
+    font-style: normal;
+    text-align: center;
+}
